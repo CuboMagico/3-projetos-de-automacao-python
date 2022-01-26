@@ -1,5 +1,5 @@
 # 3 Projetos de automação com Python
 
-## Todos os arquivos estão separados por branches.
-
-## Como o vídeo possui três projetos, decidi separa-los por questão de organização.
+<p>O primeiro se trata de um código que salva ou consulta dados para interagir com sua clipboard</p>
+<p>O segundo se trata de uma requisição a uma API de climas, em que se consulta temperatura e o tempo de uma cidade</p>
+<p>O terceiro é um código de envio de email</p>
